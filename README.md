@@ -1,6 +1,5 @@
 - Hello, I’m @python-processing-unit
 - I’m interested in ... Getting my code to stop glitching.
-- I’m looking to collaborate on nothing. Go away. I'm working on something.
 - How to reach me ... Don't.
 
 <!---
