@@ -1,4 +1,4 @@
-- Hello, I’m @python-processing-unit
+- I am python-processing-unit
 - I’m interested in ... Getting my code to stop glitching.
 - How to reach me ... Don't.
 - I'm a Windows user. Fight me.
